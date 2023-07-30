@@ -1,8 +1,9 @@
 import Navbar from './Components/Navbar';
 import Home from "./Components/Home";
-import MediaSocial from "./Components/MediaSocial"
-import About from "./Components/About"
-import Portfolio from "./Components/Portfolio"
+import MediaSocial from "./Components/MediaSocial";
+import About from "./Components/About";
+import Experience from "./Components/Experience";
+import Contact from "./Components/contact";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       <Home />
       <MediaSocial />
       <About />
-      <Portfolio />
+      <Experience />
+      <Contact />
     </div>
   );
 }

@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const About = () => {
   return (
     <div
@@ -13,25 +14,16 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-xl mt-5">
+          Iniciei minha carreira profissional em uma concessionária de veículos, sempre mostrando bons resultados e crescendo com o decorrer do tempo e com os desafios que me eram propostos. Passei por todas as áreas até chegar no cargo de consultor técnico cuidando de todo o processo de pós vendas. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          No entanto, decidi seguir meu sonho de me tornar um programador porque sempre admirei e sempre tive vontade de contribuir com essa área que cresce tanto no mundo. Abaixo seguem as tecnologias que estou estudando.
         </p>
+       
       </div>
     </div>
   );
