@@ -21,7 +21,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          No entanto, decidi seguir meu sonho de me tornar um programador porque sempre admirei e sempre tive vontade de contribuir com essa área que cresce tanto no mundo. Abaixo seguem as tecnologias que estou estudando.
+          No entanto, decidi seguir meu sonho de me tornar um programador porque sempre admirei e tive vontade de contribuir com essa área que cresce tanto no mundo. Abaixo seguem as tecnologias que estou me aprimorando. 
         </p>
        
       </div>

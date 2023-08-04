@@ -12,7 +12,7 @@ const Contact = () => {
                     Contact
                     </p>
                 <p className='py-6'>
-                    Clique abaixo para entrar em contato.
+                    
                     </p>
 
                 <div className='flex justify-center items-center'>
