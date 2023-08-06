@@ -15,7 +15,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-          Iniciei minha carreira profissional em uma concessionária de veículos, sempre mostrando bons resultados e crescendo com o decorrer do tempo e com os desafios que me eram propostos. Passei por todas as áreas até chegar no cargo de consultor técnico cuidando de todo o processo de pós vendas. 
+          Iniciei minha carreira profissional em uma concessionária de veículos, sempre mostrando bons resultados e crescendo com o decorrer do tempo e com os desafios que me eram propostos. Passei por todas as áreas até chegar no cargo de consultor técnico cuidando de todo o processo de pós-vendas. 
         </p>
 
         <br />
