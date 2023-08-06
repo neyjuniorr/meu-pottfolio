@@ -1,17 +1,17 @@
 import Navbar from './Components/Navbar';
-import Home from "./Components/Home";
+import Inicio from "./Components/Inicio";
 import MediaSocial from "./Components/MediaSocial";
-import About from "./Components/About";
-import Experience from "./Components/Experience";
-import Contact from "./Components/contact";
+import Sobre  from "./Components/Sobre";
+import Experience from "./Components/Tecnologias";
+import Contact from "./Components/Contato";
 
 function App() {
   return (
     <div>
       <Navbar />
-      <Home />
+      <Inicio />
       <MediaSocial />
-      <About />
+      <Sobre />
       <Experience />
       <Contact />
     </div>

@@ -8,7 +8,7 @@ import react from '../imagens/react.png';
 import tailwind from '../imagens/tailwind.png';
 
 
-const Experience = () => {
+const Tecnologias = () => {
 
     const techs = [
         {
@@ -50,13 +50,13 @@ const Experience = () => {
         
     ]
   return (
-    <div name='experience' 
+    <div name='Tecnologias' 
     className='bg-gradient-to-b from-black via-black to-black w-full h-screen'>
 
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
             <div>
                 <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>
-                    Experience
+                    Tecnologias
                 </p>
                 <p className='py-5'> Linguagens de programação que estou me aperfeiçoando. </p>
             </div>
@@ -81,4 +81,4 @@ const Experience = () => {
   )
 }
 
-export default Experience
+export default Tecnologias
