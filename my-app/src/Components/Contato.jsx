@@ -11,13 +11,11 @@ const Contato = () => {
                 <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>
                     Contato
                     </p>
-                <p className='py-6'>
-                    
-                    </p>
+                
 
                 <div className='flex justify-center items-center'>
 
-                    <form action="https://getform.io/f/419987c4-5750-4392-81da-223831f42fd1" method='POST' className='flex flex-col w-full md:w-1/2'>
+                    <form action="https://getform.io/f/419987c4-5750-4392-81da-223831f42fd1" method='POST' className='flex flex-col w-full p-10  md:w-2/3'>
                         <input
                          type="text" 
                          name='name'
@@ -37,7 +35,7 @@ const Contato = () => {
                          className='p-2 bg-transparent border-2 rounded-md text-white focus:outline-none'>
                         </textarea><br/>
 
-                        <button className='text-white bg-gradient-to-b  from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300'> Vamos conversar
+                        <button className='text-white bg-gradient-to-b  from-cyan-500 to-blue-500 px-5 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300'> Vamos conversar
 
                         </button>
                     </form>
